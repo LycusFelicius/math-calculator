@@ -11,7 +11,7 @@ def main():
     #input
     val_a = int(input("Enter value a : "))
     val_b = int(input("Enter value b : "))
-    val_c = int(input("Enter value c: "))
+    val_c = int(input("Enter value c : "))
     #return if value unknown or missing
     if not val_a or not val_b or not val_c:
         return
