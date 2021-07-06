@@ -1,5 +1,3 @@
 # Math Solver
 Simple Math Calculator
-
-How to use :
-Just fill the unknown value with "0"
+This program contains any math calculator solver (Pythagoras, Quadratic equations, etc)
