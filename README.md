@@ -1,4 +1,4 @@
-# Math Solver
+# Math Solver Calculator
 Simple Math Calculator
 This program contains any math calculator solver (Pythagoras, Quadratic equations, etc)
 
