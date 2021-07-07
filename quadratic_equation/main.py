@@ -1,14 +1,14 @@
 #www.github.com/LycusFelicius
-from math import sqrt
+from math import *
 #result func
 def result(result_value_a, result_value_b):
     result_a = str(result_value_a)
     result_b = str(result_value_b)
     print ("x : " + result_a + " or x : " + result_b)
-#input value
+#main func
 def main():
     print("Roots Quadratic Equation Solver")
-    #input
+    #input value
     val_a = int(input("Enter value a : ") or "0")
     val_b = int(input("Enter value b : ") or "0")
     val_c = int(input("Enter value c : ") or "0")
