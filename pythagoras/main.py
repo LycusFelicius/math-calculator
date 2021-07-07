@@ -4,7 +4,7 @@ def result(result_value):
     result = str(result_value)
     print ("Result : " + result)
 def main():
-    print ("left the unknown value empty or enter with 0")
+    print ("left the unknown value empty or 0")
     #input value
     val_a = float(input("Enter value a : ") or "0")
     val_b = float(input("Enter value b : ") or "0")

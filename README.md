@@ -4,7 +4,6 @@ This program contains any math calculator solver (Pythagoras, Quadratic equation
 
 Changelog :
 1) Adding black principle solver
-2) Change from variable from int to float for decimal operation
 
 Main Feature : 
 1) Pythagoras
