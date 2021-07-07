@@ -9,9 +9,9 @@ def result(result_value_a, result_value_b):
 def main():
     print("Roots Quadratic Equation Solver")
     #input value
-    val_a = int(input("Enter value a : ") or "0")
-    val_b = int(input("Enter value b : ") or "0")
-    val_c = int(input("Enter value c : ") or "0")
+    val_a = float(input("Enter value a : ") or "0")
+    val_b = float(input("Enter value b : ") or "0")
+    val_c = float(input("Enter value c : ") or "0")
     #return if value unknown or missing
     if val_a == 0 or val_b == 0 or val_c == 0:
         return

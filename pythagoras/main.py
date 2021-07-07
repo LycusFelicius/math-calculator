@@ -6,9 +6,9 @@ def result(result_value):
 def main():
     print ("left the unknown value empty or enter with 0")
     #input value
-    val_a = int(input("Enter value a : ") or "0")
-    val_b = int(input("Enter value b : ") or "0")
-    val_c = int(input("Enter value c : ") or "0")
+    val_a = float(input("Enter value a : ") or "0")
+    val_b = float(input("Enter value b : ") or "0")
+    val_c = float(input("Enter value c : ") or "0")
     #calculating
     if val_c == 0 and val_b != 0 and val_a != 0:
         result_value = sqrt(val_a * val_a + val_b * val_b)
