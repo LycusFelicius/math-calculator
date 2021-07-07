@@ -11,8 +11,6 @@ def main():
     val_m2 = float(input("Enter value M2 : ") or "0")
     val_c1 = float(input("Enter value C1 : ") or "0")
     val_c2 = float(input("Enter value C2 : ") or "0")
-    #val_delta1 = float(input("Enter value ∆T1 : ") or "0")
-    #val_delta2 = float(input("Enter value ∆T2 : ") or "0")
     val_t1 = float(input("Enter value T1 : ") or "0")
     val_t2 = float(input("Enter value T2 : ") or "0")
     #calculating
