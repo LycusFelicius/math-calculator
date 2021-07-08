@@ -3,7 +3,7 @@ Simple Math Calculator
 This program contains any math calculator solver (Pythagoras, Quadratic equations, etc)
 
 Changelog :
-1) Adding black principle solver
+1) Adding main menu
 
 Main Feature : 
 1) Pythagoras
